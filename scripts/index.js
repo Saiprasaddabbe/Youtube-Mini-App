@@ -1,4 +1,4 @@
-let q = "";
+let q = "";    
 let getData = () => {
   let query = document.getElementById("query").value;
   q = query;
